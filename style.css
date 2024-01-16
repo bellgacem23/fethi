@@ -1,16 +1,17 @@
-body {
+/* body {
 background-color: azure;    font-family: Arial, sans-serif;
     margin: 100;
     padding: 50;
-}
-header img {
+} */
+ header img {
     max-width: 200px; /* Ajustez la largeur maximale selon vos besoins */
     max-height: 200px; /* Ajustez la hauteur maximale selon vos besoins */
     border-radius: 0%; /* Pour créer un effet de coin arrondi */
     position: absolute;
     left: 50Px; /* Ajustez la position horizontale selon vos besoins */
     top: 10px; /* Ajustez la position verticale selon vos besoins */
-}ul{ padding: 5%;}
+} 
+ul{ padding: 5%;}
 li div {padding: 2%;}
 div p {
     padding: 2%;
@@ -21,13 +22,13 @@ h3{
 nav {
     color: #ddd;
 }
-header {
-    background-color: #e4e4f7; 
-    color: black;
-    padding: 20px;
+  header {
+    /* background-color: #e4e4f7; 
+    color: black; */
+    padding: 20px; 
     text-align: center;
 }
-
+ 
 table {
     width: 85% ; height: 60%;
     border-collapse: collapse;
