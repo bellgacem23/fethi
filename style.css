@@ -1,8 +1,8 @@
-/* body {
+ body {
 background-color: azure;    font-family: Arial, sans-serif;
     margin: 100;
     padding: 50;
-} */
+} 
  header img {
     max-width: 200px; /* Ajustez la largeur maximale selon vos besoins */
     max-height: 200px; /* Ajustez la hauteur maximale selon vos besoins */
@@ -23,8 +23,8 @@ nav {
     color: #ddd;
 }
   header {
-    /* background-color: #e4e4f7; 
-    color: black; */
+     background-color: #e4e4f7; 
+    color: black; 
     padding: 20px; 
     text-align: center;
 }
