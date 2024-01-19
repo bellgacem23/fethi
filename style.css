@@ -22,32 +22,14 @@ h3{
 nav {
     color: #ddd;
 }
-  header {
+header {
      background-color: #e4e4f7; 
     color: black; 
     padding: 20px; 
     text-align: center;
 }
- 
-table {
-    width: 85% ; height: 60%;
-    border-collapse: collapse;
-}
 img {
      height: 70%;
-}
-
-th, td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-
-th {
-    background-color: #f2f2f2;
-}
-body{
-    background-color: hsl(from color h s l);
 }
 footer {
     background-color: dimgrey;
