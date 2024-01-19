@@ -2,7 +2,7 @@
 background-color: azure;    font-family: Arial, sans-serif;
     margin: 100;
     padding: 50;
-   text-decoration : none ;
+   text-decoration-line : none ;
 } 
  header img {
     max-width: 200px; /* Ajustez la largeur maximale selon vos besoins */
