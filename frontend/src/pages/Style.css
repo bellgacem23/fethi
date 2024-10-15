@@ -1,0 +1,22 @@
+.custom-padding {
+    padding: 30px;
+  }
+.nav a:hover {
+    font-size: 1.2em; /* Augmente la taille de la police de 20% */
+  }
+  .homepage {
+    position: relative;
+  }
+  
+  .profile-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1rem; /* Adjust as needed */
+    z-index: 10; /* Ensure it is on top of other content */
+  }
+  
+  .header-content {
+    margin-left: 5rem; /* Adjust to make space for the image */
+  }
+  
