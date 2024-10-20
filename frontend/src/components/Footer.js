@@ -13,7 +13,7 @@ const Footer = () => {
         <li className="mb-2">To contact me:</li>
         <li className="contact-item flex items-center mb-2">
           <img src={mail} alt="Email Icon" className="icon w-5 h-5 mr-2" />
-          <span>Email: fethibenbelgacem1@gmail.com</span>
+          <span>Email: fetbelgacem@gmail.com</span>
         </li>
         <li className="contact-item flex items-center">
           <a
