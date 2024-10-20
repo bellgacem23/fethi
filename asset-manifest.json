@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/fethi/static/css/main.ab3a15aa.css",
-    "main.js": "/fethi/static/js/main.b0125635.js",
-    "static/js/488.d0875055.chunk.js": "/fethi/static/js/488.d0875055.chunk.js",
+    "main.js": "/fethi/static/js/main.f3a336ee.js",
+    "static/js/488.8d257266.chunk.js": "/fethi/static/js/488.8d257266.chunk.js",
     "static/media/profil.jpg": "/fethi/static/media/profil.ff508519de829e2ee23c.jpg",
     "static/media/mail_icon.svg": "/fethi/static/media/mail_icon.fec15fd6f65989ef6bd92d760ee385e6.svg",
     "static/media/linkedin_icon.svg": "/fethi/static/media/linkedin_icon.88d4a2df77daae756c2c38909b9448a2.svg",
     "index.html": "/fethi/index.html",
     "main.ab3a15aa.css.map": "/fethi/static/css/main.ab3a15aa.css.map",
-    "main.b0125635.js.map": "/fethi/static/js/main.b0125635.js.map",
-    "488.d0875055.chunk.js.map": "/fethi/static/js/488.d0875055.chunk.js.map"
+    "main.f3a336ee.js.map": "/fethi/static/js/main.f3a336ee.js.map",
+    "488.8d257266.chunk.js.map": "/fethi/static/js/488.8d257266.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab3a15aa.css",
-    "static/js/main.b0125635.js"
+    "static/js/main.f3a336ee.js"
   ]
 }
